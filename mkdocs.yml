@@ -9,6 +9,8 @@ nav:
     - Bar graph: chart-types/bar-graph.ipynb
     - Line charts: chart-types/line-chart.ipynb
     - Scatterplot: chart-types/scatterplot.ipynb
+  - Complex charts:
+    - Slope graph: complex-charts/slope-graphs.ipynb
   - Text:
     - Change fonts: text/change-fonts.ipynb
     - Available fonts: text/print-list.ipynb
