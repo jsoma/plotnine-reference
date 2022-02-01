@@ -16,6 +16,8 @@ nav:
     - Available fonts: text/print-list.ipynb
     - Add titles: text/titles.ipynb
     - Chinese/Japanese/Korean text: text/cjk-text.ipynb
+  - Exporting:
+    - Exporting to PNG: saving-exporting/save-to-png.ipynb
 extra_css:
   - stylesheets/extra.css
 extra:
