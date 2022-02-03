@@ -12,6 +12,11 @@ nav:
   - Complex charts:
     - Slope graph: complex-graphics/slope-graphs.ipynb
     - Aggregations: complex-graphics/aggregations.ipynb
+  - Annotations:
+    - annotations/annotations-scatter.ipynb
+    - annotations/selective-annotations.ipynb
+    - annotations/positioning.ipynb
+    - annotations/plotting-stats.ipynb
   - Text:
     - Change fonts: text/change-fonts.ipynb
     - Available fonts: text/print-list.ipynb
