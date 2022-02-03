@@ -17,6 +17,7 @@ nav:
     - annotations/selective-annotations.ipynb
     - annotations/positioning.ipynb
     - annotations/plotting-stats.ipynb
+    - annotations/outline-text.ipynb
   - Text:
     - Change fonts: text/change-fonts.ipynb
     - Available fonts: text/print-list.ipynb
